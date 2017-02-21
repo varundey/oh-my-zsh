@@ -1,0 +1,31 @@
+1486725474023	geckodriver	INFO	Listening on 127.0.0.1:50806
+1486725570925	geckodriver	INFO	Listening on 127.0.0.1:50829
+1486726038499	geckodriver	INFO	Listening on 127.0.0.1:51185
+1486726044044	mozprofile::profile	INFO	Using profile path /var/folders/9s/6vgrb3mx3fs993p31cctltd00000gn/T/rust_mozprofile.xAvjKzwQRzYN
+1486726044071	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486726044253	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51195
+1486726048289	Marionette	INFO	Listening on port 51195
+1486726079567	geckodriver	INFO	Listening on 127.0.0.1:51345
+1486726080775	mozprofile::profile	INFO	Using profile path /var/folders/9s/6vgrb3mx3fs993p31cctltd00000gn/T/rust_mozprofile.lOOilcCow6Ra
+1486726080776	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486726080867	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51354
+1486726084770	Marionette	INFO	Listening on port 51354
+JavaScript warning: https://search.norton.com/js/jquery/external/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
